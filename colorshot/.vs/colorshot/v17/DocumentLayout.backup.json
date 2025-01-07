@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\colorshot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47F7065-6092-4816-54D0-3134C1C8DBAD}|Assembly-CSharp.Player.csproj|d:\\unity\\colorshot\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47F7065-6092-4816-54D0-3134C1C8DBAD}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|D:\\Unity\\colorshot\\assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|D:\\Unity\\colorshot\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|D:\\Unity\\colorshot\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|D:\\Unity\\colorshot\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|D:\\Unity\\colorshot\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|D:\\Unity\\colorshot\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6D24-6E8D-943F-7B01-BB729821FEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Unity\\colorshot\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\Unity\\colorshot\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:07:21.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\Unity\\colorshot\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "D:\\Unity\\colorshot\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAlwC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:51:06.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity\\colorshot\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\Unity\\colorshot\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAWwGoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:25:35.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\colorshot\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\colorshot\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAjwMsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:22:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity\\colorshot\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Unity\\colorshot\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:15:17.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\Unity\\colorshot\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle.cs",
+              "ToolTip": "D:\\Unity\\colorshot\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAjwHsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:15:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Unity\\colorshot\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\Unity\\colorshot\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:14:58.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
